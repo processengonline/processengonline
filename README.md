@@ -22,7 +22,6 @@ Currently working with **Shell** as a **PTM Engineer (Process)** in Bengaluru, s
 | **Location** | Bengaluru, India |
 | **Engineering Discipline** | Chemical / Process Engineering |
 | **Industry Experience** | LNG, GTL, Gas Processing, Offshore, Refining |
-| **Current Notice Period** | 3 Months |
 | **Education** | B.Tech — Chemical Engineering |
 | **University** | West Bengal University of Technology |
 | **CGPA** | 8.27 / 10.0 |
