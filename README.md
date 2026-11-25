@@ -406,7 +406,7 @@ Professional engineering judgment and appropriate technical review remain essent
 **Shubham Chatterjee**
 
 📍 Bengaluru, Karnataka, India  
-📧 **shubham.chatterjee.eng@gmail.com**  
+📧 **processengonline@gmail.com**  
 📞 **+91 9092759010**
 
 ---
